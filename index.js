@@ -2,7 +2,10 @@ var //Emitter = require('more-events').Emitter,
     //pointer = require('pointer-point'),
     TWEEN = require('tween.js'),
     r = /([0-9]+)px/;
-
+/*
+git remote add origin https://github.com/hollowdoor/dom_scroller.git
+git push -u origin master
+*/
 
 animate();
 
