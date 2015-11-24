@@ -141,7 +141,7 @@ Scroller.prototype = {
             }
 
             if(distance)
-                this.scrollH(distance, duration);
+                return this.scrollH(distance, duration);
         }
 
     }
