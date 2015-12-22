@@ -1,6 +1,6 @@
 {
   "name": "dom-scroller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Scroll DOM elements",
   "main": "index.js",
   "directories": {
@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "tween.js": "^16.3.1"
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/hollowdoor/dom_scroller.git"
+    }
 }
